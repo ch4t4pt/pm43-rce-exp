@@ -1,4 +1,4 @@
-# Command Injection Exploit - PM43
+# Honeywell PM43 Command Injection Exploit
 
 This repository contains a command injection exploit for PM43 devices. The exploit targets the PM43 device with firmware version P10.11.013310 or earlier, which is vulnerable to command injection.
 
